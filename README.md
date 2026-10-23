@@ -52,7 +52,7 @@ python manage.py runserver 0.0.0.0:<PORT>
 
 #### Setup App
 
-To set up your App in the platform, you need to configure and push your app. See the [example app files](29next-app).
+To set up your App in the platform, you need to configure and push your app. See the [example app files](./29next-app/).
 
 **App Files**
 ```
